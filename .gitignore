@@ -28,3 +28,5 @@ fp-info-cache
 # Emacs files to ignore
 \#*
 \.\#*
+
+production/
